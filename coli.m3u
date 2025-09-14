@@ -1,22 +1,29 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (12/09 - 15.30) PSIM Yogyakarta vs Borneo FC - BRI Super League
+#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (14/09 - 15.30) PSIM Yogyakarta vs Borneo FC - BRI Super League
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
 
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (12/09 - 19.00) PERSIJA Jakarta vs Bali United - BRI Super League
+#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (14/09 - 19.00) PERSIJA Jakarta vs Bali United - BRI Super League
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (12/09 - 22.30) Manchester City vs Manchester United - Premier League
+#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (14/09 - 22.30) Manchester City vs Manchester United - Premier League
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (14/09 - 23.00) Sassuolo vs Lazio - Serie A
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19404&type=dash

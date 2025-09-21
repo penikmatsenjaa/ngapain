@@ -1,22 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (19/09 - 15.30) Bhayangkara FC vs PERSIK Kediri - BRI Super League
-#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
-
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (19/09 - 19.00) Malut United vs Madura United - BRI Super League
-#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19386&type=drm
-https://nextgenz.my.id/event/pidio/play.m3u8?id=19386&type=hls
-
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (19/09 - 19.00) PERSEBAYA Surabaya vs Semen Padang FC - Premier League
+#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (21/09 - 19.00) PSM Makassar vs PERSIJA Jakarta - BRI Super League
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
+
+#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (21/09 - 20.00) Cremonese vs Parma - Serie A
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19589&type=drm
+https://nextgenz.my.id/event/pidio/play.m3u8?id=19589&type=hls
+
+#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (21/09 - 22.30) Arsenal vs Manchester City - Premier League
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash

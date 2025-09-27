@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="LIVE EVENT", (27/09 - 18.30) Brentford vs Manchester United - Premier League
+#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="UPCOMING EVENT", (27/09 - 18.30) Brentford vs Manchester United - Premier League
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

@@ -1,20 +1,48 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (22/09 - 15.30) Arema FC vs PERSIB Bandung - BRI Super League
+#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="LIVE EVENT", (27/09 - 18.30) Brentford vs Manchester United - Premier League
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="LIVE EVENT", (27/09 - 19.00) PERSITA Tangerang vs PERSIB Bandung - BRI Super League
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=drm
 https://nextgenz.my.id/event/pidio/play.mpd?id=19354&type=dash
 
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (22/09 - 19.00) Borneo FC vs PERSIS Solo - BRI Super League
+#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="LIVE EVENT", (27/09 - 21.00) Chelsea vs Brighton & Hove Albion - Premier League
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19375&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19375&type=dash
 
-#EXTINF:-1 tvg-id="BRI Super League" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="BRI Super League", (21/09 - 22.30) Arsenal vs Manchester City - Premier League
+#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="LIVE EVENT", (27/09 - 21.00) Crystal Palace vs Liverpool - Premier League
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9182&type=dash
+
+#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="LIVE EVENT", (27/09 - 21.00) Leeds United vs AFC Bournemouth - Premier League
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19536&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19536&type=dash
+
+#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="LIVE EVENT", (27/09 - 23.30) Manchester City vs Burnley - Premier League
+#EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=9183&type=dash
+
+#EXTINF:-1 tvg-id="LIVE EVENT" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="LIVE EVENT", (28/09 - 02.00) Tottenham Hotspur vs Wolverhampton Wanderers - Premier League
 #EXTVLCOPT:http-user-agent=VidioPlayer/2.33.10
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

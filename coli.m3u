@@ -2,6 +2,8 @@
 
 #EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", (01/11 - 19.00) Bali United vs PERSIB Bandung - BRI Super League
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/viddreq.php?id=19354&type=drm
 https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/19354/file/drm/dash/stream.mpd?hdnts=exp=1762013207~acl=/stream/19354/file/drm/dash/stream.mpd!/stream/19354/file/drm/dash/*/aac/*!/stream/19354/file/drm/dash/*/*-1080p/*!/stream/19354/file/drm/dash/*/*-720p/*!/stream/19354/file/drm/dash/*/*-480p/*!/stream/19354/file/drm/dash/*/*-360p/*~id=allUsers~hmac=9400678358300c1414f7689134a42fe7d49358b20a5e149bd283e9ba632b51e9

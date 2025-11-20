@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", (15/11 - 20.00) Indonesia U23 vs Mali U23 - International Friendly
+#EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", (15/11 - 19.00) PERSIJA Jakarta vs PERSIK Kediri - BRI Super League
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc5895799dc521e5d61ccedd4d4f1ebb:b5ecf7d95b70fbff640bf2124a63f2f3
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/stream/19679/file/drm/dash/stream.mpd?hdnts=exp=1763228365~acl=/stream/19679/file/drm/dash/stream.mpd!/stream/19679/file/drm/dash/*/aac/*!/stream/19679/file/drm/dash/*/*-1080p/*!/stream/19679/file/drm/dash/*/*-720p/*!/stream/19679/file/drm/dash/*/*-480p/*!/stream/19679/file/drm/dash/*/*-360p/*~id=191401050~hmac=962130f727c6cec351b3c06c136871c98d4a4ad88ac772de16ea596935d280e0
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/lick.php?id=19354
+https://vidd.semar.my.id/viddreq.php?id=19354&type=dash

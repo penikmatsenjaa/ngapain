@@ -13,6 +13,14 @@ https://vidd.semar.my.id/viddreq.mpd?id=19354&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/viddreq.mpd?id=205&type=drm
+https://vidd.semar.my.id/viddreq.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", BRI Super League - 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/viddreq.mpd?id=19353&type=drm
 https://vidd.semar.my.id/viddreq.mpd?id=19353&type=dash
 

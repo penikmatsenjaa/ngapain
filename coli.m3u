@@ -22,4 +22,4 @@ https://vidd.semar.my.id/viddreq.mpd?id=19988&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/pidick.php?id=20240&type=drm
-https://vidd.semar.my.id/viddreq.mpd?id=20240&type=dash
+https://vidd.semar.my.id/vidrreq.mpd?id=20240&type=dash

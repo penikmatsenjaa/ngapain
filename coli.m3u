@@ -22,7 +22,7 @@ https://vidd.semar.my.id/vidrreq.mpd?id=19385&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/pidick.php?id=19988&type=drm
-https://vidd.semar.my.id/viddreq.mpd?id=19988&type=dash
+https://vidd.semar.my.id/vidrreq.mpd?id=19988&type=dash
 
 #EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", Proliga
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11

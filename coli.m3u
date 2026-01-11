@@ -20,7 +20,7 @@ https://vidd.semar.my.id/vidrreq.mpd?id=19385&type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://vidd.semar.my.id/pidick.php?id=19988&type=drm
 https://vidd.semar.my.id/vidrreq.mpd?id=19988&type=dash
 

@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", BRI Super League - 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -9,15 +9,15 @@
 https://vidx.semar.my.id/vidrreq.mpd?id=19354&type=dash
 
 #EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", BRI Super League - 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/vidrreq.mpd?id=19353&type=drm
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/pidick.php?id=19353&type=drm
 https://vidx.semar.my.id/vidrreq.mpd?id=19353&type=dash
 
 #EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", BRI Super League - 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -25,7 +25,7 @@ https://vidx.semar.my.id/vidrreq.mpd?id=19353&type=dash
 https://vidx.semar.my.id/vidrreq.mpd?id=19988&type=dash
 
 #EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", Proliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; P1 Build/AP4A.25010.002; wv-atv) Google/0.4.7-dev AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/83.0.4103.106 Mobile Safari/537.36
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey

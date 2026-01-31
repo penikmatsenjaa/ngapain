@@ -21,8 +21,8 @@ https://vidx.semar.my.id/vidrreq.mpd?id=19543&type=dash
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vidx.semar.my.id/vidrreq.mpd?id=19988&type=drm
-https://vidx.semar.my.id/vidrreq.mpd?id=19988&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=drm
+https://nextgenz.my.id/event/pidio/play.mpd?id=19543&type=dash
 
 #EXTINF:-1 tvg-id="Upcoming Events" tvg-logo="https://i.ibb.co.com/cXrx9mQt/1757818836-picsay.png" group-title="Upcoming Events", Proliga
 #EXTVLCOPT:http-user-agent=VidioPlayer/7.17.9
